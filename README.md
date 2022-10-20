@@ -1,4 +1,4 @@
-﻿# # Basic Computer Logisim Simulation
+﻿# Basic Computer Logisim Simulation
 A logisim simulation of a basic computer with
 
 -   A bus that contains 6 registers (AR, TR, DR, AC, IR, PC)
